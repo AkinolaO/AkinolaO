@@ -1,8 +1,7 @@
 
-<div align="center">
 Welcome to the world of Data 👋
 ========================================
-</div>
+
 
 <p align="center">
     <img width="33%" src="infographic-gif-data-vision-450x224.gif">
