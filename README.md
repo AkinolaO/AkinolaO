@@ -1,7 +1,7 @@
 Welcome to the world of Data 👋
 ========================================
 
-![](infographic-gif-data-vision-450x224.gif)
+![](infographic-gif-data-vision-450x224.gif "Data is Live")
 
 
 <!--
