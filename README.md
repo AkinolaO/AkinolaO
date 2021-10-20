@@ -7,9 +7,9 @@ Welcome to the world of Data 👋
   <img src="https://https://github.com/AkinolaO/AkinolaO/blob/main/infographic-gif-data-vision-450x224.gif?raw=true" alt="Sublime's custom image"/>
 </p>
 
-**Align center:**
+
 <p align="center" width="100%">
-    <img width="33%" src="infographic-gif-data-vision-450x224.gif">
+    <img width="33%" src="infographic-gif-data-vision-450x224.gif""Data is Live">
 </p>
 <!--
 **AkinolaO/AkinolaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
