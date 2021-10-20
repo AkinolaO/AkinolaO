@@ -1,5 +1,8 @@
 Sanyaolu Akinola Obafemi is saying Hi 👋
 
+![](infographic-gif-data-vision-450x224.gif)
+
+
 <!--
 **AkinolaO/AkinolaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
