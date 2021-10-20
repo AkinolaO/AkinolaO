@@ -1,4 +1,4 @@
-Sanyaolu Akinola Obafemi is saying Hi 👋
+Welcome to the world of Data 👋
 ========================================
 
 ![](infographic-gif-data-vision-450x224.gif)
