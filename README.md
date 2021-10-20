@@ -8,8 +8,8 @@ Welcome to the world of Data 👋
 </p>
 
 
-<p align="center" width="100%">
-    <img width="33%" src="infographic-gif-data-vision-450x224.gif""Data is Live">
+<p align="center">
+    <img width="33%" src="infographic-gif-data-vision-450x224.gif">
 </p>
 <!--
 **AkinolaO/AkinolaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
